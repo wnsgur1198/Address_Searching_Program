@@ -21,7 +21,7 @@ DBMS: MS Access 2010
 ## Release History
 
 * 1.0.0
-    * first commit
+    * first
     * 개발 완료
 
 ## Meta
